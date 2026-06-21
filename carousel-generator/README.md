@@ -6,7 +6,8 @@ App web para generar carruseles de Instagram de forma automatica usando intelige
 
 ![Screenshot de la app](assets/screenshot.png)
 
-https://github.com/EriMCrea/carousel-generator/assets/demo.mp4
+[https://github.com/EriMCrea/carousel-generator/assets/demo.mp4
+](https://github.com/user-attachments/assets/b9ab0237-dc6f-4fa8-bf14-0343c550acd0)
 
 ## Que hace
 
